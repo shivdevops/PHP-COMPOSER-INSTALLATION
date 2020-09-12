@@ -5,7 +5,9 @@
 * Download the script.
 
 * change the file permission with 777 
-   ` ` ` sudo chmod 777 composer.sh ` ` `
+   
+    ` ` ` sudo chmod 777 composer.sh ` ` `
 
 * Run the script with sudo.  
-   ` ` ` sudo ./composer.sh ` ` `
+    
+    ` ` ` sudo ./composer.sh ` ` `
