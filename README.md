@@ -1,11 +1,11 @@
 # PHP_COMPOSER_INSTALLATION
 
+   **An automated Installation shell script for php-composer  for linux ubuntu OS's.**
 
-* Installation script for php-composer  for linux ubuntu.
 * Download the script.
 
-# sudo ./composer.sh
+* change the file permission with 777 
+   ` ` ` sudo chmod 777 composer.sh ` ` `
 
 * Run the script with sudo.  
-* change the file permission with 777 
-* sudo chmod 777 composer.sh
+   ` ` ` sudo ./composer.sh ` ` `
