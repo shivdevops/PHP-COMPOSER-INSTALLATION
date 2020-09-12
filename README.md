@@ -11,3 +11,8 @@
 * Run the script with sudo.  
     
     ` ` ` sudo ./composer.sh ` ` `
+    
+## Prerequisite:
+
+  * Ubuntu OS.
+  * php
